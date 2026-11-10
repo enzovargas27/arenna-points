@@ -1,0 +1,361 @@
+month,category,rank,player,points,activities,spend,prize,prize_cost
+2025-05,build,1,Player 035,80,6,210.0,One month of Active,127.5
+2025-05,build,2,Player 112,60,6,170.0,,0.0
+2025-05,build,3,Player 074,50,5,115.0,,0.0
+2025-05,build,4,Player 104,20,2,118.25,,0.0
+2025-05,build,5,Player 025,20,2,95.0,,0.0
+2025-05,build,6,Player 187,20,2,85.0,,0.0
+2025-05,build,7,Player 186,20,2,60.0,,0.0
+2025-05,build,8,Player 034,10,1,285.0,,0.0
+2025-05,build,9,Player 021,10,1,74.5,,0.0
+2025-05,build,10,Player 079,10,1,73.75,,0.0
+2025-05,perform,1,Player 012,120,10,423.25,One month of Elite,187.5
+2025-05,perform,2,Player 041,90,6,432.5,,0.0
+2025-05,perform,3,Player 008,80,6,330.0,,0.0
+2025-05,perform,4,Player 032,80,6,144.0,,0.0
+2025-05,perform,5,Player 097,70,7,605.0,,0.0
+2025-05,perform,6,Player 007,60,6,373.75,,0.0
+2025-05,perform,7,Player 014,50,4,748.5,,0.0
+2025-05,perform,8,Player 048,50,5,135.0,,0.0
+2025-05,perform,9,Player 013,40,3,802.25,,0.0
+2025-05,perform,10,Player 058,40,4,180.0,,0.0
+2025-05,progress,1,Player 030,100,7,327.5,One month of Active,127.5
+2025-05,progress,2,Player 080,70,7,291.0,,0.0
+2025-05,progress,3,Player 020,70,7,208.0,,0.0
+2025-05,progress,4,Player 031,70,5,195.0,,0.0
+2025-05,progress,5,Player 006,70,5,182.0,,0.0
+2025-05,progress,6,Player 088,60,6,467.5,,0.0
+2025-05,progress,7,Player 071,60,6,242.5,,0.0
+2025-05,progress,8,Player 124,50,3,340.0,,0.0
+2025-05,progress,9,Player 137,50,5,191.25,,0.0
+2025-05,progress,10,Player 075,40,4,270.0,,0.0
+2025-06,build,1,Player 186,80,6,163.75,One month of Social,90.0
+2025-06,build,2,Player 187,80,6,155.0,,0.0
+2025-06,build,3,Player 035,60,6,140.0,,0.0
+2025-06,build,4,Player 112,50,3,20.0,,0.0
+2025-06,build,5,Player 206,40,4,300.0,,0.0
+2025-06,build,6,Player 173,40,4,155.0,,0.0
+2025-06,build,7,Player 104,40,4,132.0,,0.0
+2025-06,build,8,Player 074,40,2,80.0,,0.0
+2025-06,build,9,Player 202,40,4,80.0,,0.0
+2025-06,build,10,Player 188,40,2,77.0,,0.0
+2025-06,perform,1,Player 012,150,13,824.95,One month of Elite,187.5
+2025-06,perform,2,Player 032,120,10,311.5,,0.0
+2025-06,perform,3,Player 097,100,8,417.5,,0.0
+2025-06,perform,4,Player 048,80,6,140.0,,0.0
+2025-06,perform,5,Player 008,70,5,751.5,,0.0
+2025-06,perform,6,Player 007,60,4,391.75,,0.0
+2025-06,perform,7,Player 228,60,6,204.0,,0.0
+2025-06,perform,8,Player 058,50,3,165.0,,0.0
+2025-06,perform,9,Player 053,50,3,80.5,,0.0
+2025-06,perform,10,Player 113,40,4,175.0,,0.0
+2025-06,progress,1,Player 157,140,12,462.5,One month of Elite,187.5
+2025-06,progress,2,Player 220,130,10,367.5,,0.0
+2025-06,progress,3,Player 117,80,6,315.0,,0.0
+2025-06,progress,4,Player 137,80,6,155.0,,0.0
+2025-06,progress,5,Player 071,80,6,115.0,,0.0
+2025-06,progress,6,Player 075,70,7,255.0,,0.0
+2025-06,progress,7,Player 132,70,5,170.0,,0.0
+2025-06,progress,8,Player 006,60,6,547.5,,0.0
+2025-06,progress,9,Player 088,50,3,452.5,,0.0
+2025-06,progress,10,Player 108,50,3,450.0,,0.0
+2025-07,build,1,Player 296,40,4,190.0,One month of Social,90.0
+2025-07,build,2,Player 104,40,4,105.0,,0.0
+2025-07,build,3,Player 112,40,4,80.0,,0.0
+2025-07,build,4,Player 130,30,3,155.0,,0.0
+2025-07,build,5,Player 173,30,3,95.0,,0.0
+2025-07,build,6,Player 074,30,3,85.0,,0.0
+2025-07,build,7,Player 187,20,2,40.0,,0.0
+2025-07,build,8,Player 287,10,1,85.0,,0.0
+2025-07,build,9,Player 186,10,1,65.0,,0.0
+2025-07,build,10,Player 303,10,1,65.0,,0.0
+2025-07,perform,1,Player 078,90,7,280.0,One month of Active,127.5
+2025-07,perform,2,Player 087,70,5,225.0,,0.0
+2025-07,perform,3,Player 278,60,4,392.0,,0.0
+2025-07,perform,4,Player 086,50,4,311.0,,0.0
+2025-07,perform,5,Player 309,50,5,189.0,,0.0
+2025-07,perform,6,Player 048,50,5,170.0,,0.0
+2025-07,perform,7,Player 150,50,5,140.0,,0.0
+2025-07,perform,8,Player 097,40,4,270.5,,0.0
+2025-07,perform,9,Player 060,40,4,172.5,,0.0
+2025-07,perform,10,Player 076,40,2,90.0,,0.0
+2025-07,progress,1,Player 157,110,11,698.52,One month of Elite,187.5
+2025-07,progress,2,Player 271,110,9,267.0,,0.0
+2025-07,progress,3,Player 132,110,8,260.0,,0.0
+2025-07,progress,4,Player 220,90,9,425.0,,0.0
+2025-07,progress,5,Player 108,80,6,245.0,,0.0
+2025-07,progress,6,Player 117,80,6,225.0,,0.0
+2025-07,progress,7,Player 274,70,5,330.0,,0.0
+2025-07,progress,8,Player 268,70,5,180.0,,0.0
+2025-07,progress,9,Player 252,60,4,80.0,,0.0
+2025-07,progress,10,Player 030,50,5,195.0,,0.0
+2025-08,build,1,Player 142,60,4,180.0,One month of Social,90.0
+2025-08,build,2,Player 310,60,4,175.0,,0.0
+2025-08,build,3,Player 186,50,5,152.0,,0.0
+2025-08,build,4,Player 173,50,5,135.0,,0.0
+2025-08,build,5,Player 130,50,5,100.0,,0.0
+2025-08,build,6,Player 187,50,5,100.0,,0.0
+2025-08,build,7,Player 367,40,2,415.0,,0.0
+2025-08,build,8,Player 371,40,4,190.0,,0.0
+2025-08,build,9,Player 370,40,4,175.0,,0.0
+2025-08,build,10,Player 388,30,3,316.5,,0.0
+2025-08,perform,1,Player 012,100,8,456.5,One month of Elite,187.5
+2025-08,perform,2,Player 309,100,8,427.5,,0.0
+2025-08,perform,3,Player 008,90,7,385.0,,0.0
+2025-08,perform,4,Player 354,80,6,317.5,,0.0
+2025-08,perform,5,Player 150,70,5,205.0,,0.0
+2025-08,perform,6,Player 097,70,5,202.5,,0.0
+2025-08,perform,7,Player 059,70,5,167.5,,0.0
+2025-08,perform,8,Player 311,50,3,40.0,,0.0
+2025-08,perform,9,Player 007,40,4,351.0,,0.0
+2025-08,perform,10,Player 058,40,4,322.46000000000004,,0.0
+2025-08,progress,1,Player 220,120,10,305.0,One month of Active,127.5
+2025-08,progress,2,Player 157,110,9,399.0,,0.0
+2025-08,progress,3,Player 199,110,9,382.5,,0.0
+2025-08,progress,4,Player 272,90,7,150.0,,0.0
+2025-08,progress,5,Player 114,80,6,187.5,,0.0
+2025-08,progress,6,Player 252,80,6,180.0,,0.0
+2025-08,progress,7,Player 006,70,5,258.0,,0.0
+2025-08,progress,8,Player 108,70,5,100.0,,0.0
+2025-08,progress,9,Player 274,70,5,100.0,,0.0
+2025-08,progress,10,Player 302,60,6,245.0,,0.0
+2025-09,build,1,Player 130,80,6,155.0,One month of Social,90.0
+2025-09,build,2,Player 427,70,5,110.0,,0.0
+2025-09,build,3,Player 367,40,4,380.0,,0.0
+2025-09,build,4,Player 285,30,3,130.0,,0.0
+2025-09,build,5,Player 104,30,3,60.0,,0.0
+2025-09,build,6,Player 453,20,2,125.0,,0.0
+2025-09,build,7,Player 142,20,2,90.0,,0.0
+2025-09,build,8,Player 451,20,2,90.0,,0.0
+2025-09,build,9,Player 478,20,2,90.0,,0.0
+2025-09,build,10,Player 491,20,2,85.0,,0.0
+2025-09,perform,1,Player 004,110,9,336.25,One month of Active,127.5
+2025-09,perform,2,Player 012,100,8,448.5,,0.0
+2025-09,perform,3,Player 007,80,5,297.5,,0.0
+2025-09,perform,4,Player 309,80,6,285.0,,0.0
+2025-09,perform,5,Player 032,70,5,215.0,,0.0
+2025-09,perform,6,Player 381,70,5,159.38,,0.0
+2025-09,perform,7,Player 078,60,4,167.5,,0.0
+2025-09,perform,8,Player 354,60,6,165.0,,0.0
+2025-09,perform,9,Player 150,60,4,132.5,,0.0
+2025-09,perform,10,Player 357,50,5,290.0,,0.0
+2025-09,progress,1,Player 157,150,10,412.0,One month of Elite,187.5
+2025-09,progress,2,Player 220,110,7,246.25,,0.0
+2025-09,progress,3,Player 252,100,8,195.0,,0.0
+2025-09,progress,4,Player 268,70,5,345.0,,0.0
+2025-09,progress,5,Player 132,70,5,125.0,,0.0
+2025-09,progress,6,Player 387,60,4,80.0,,0.0
+2025-09,progress,7,Player 005,50,3,3039.26,,0.0
+2025-09,progress,8,Player 316,50,3,195.0,,0.0
+2025-09,progress,9,Player 006,50,5,115.0,,0.0
+2025-09,progress,10,Player 029,40,2,485.0,,0.0
+2025-10,build,1,Player 367,120,9,894.0,One month of Elite,187.5
+2025-10,build,2,Player 458,80,6,310.0,,0.0
+2025-10,build,3,Player 130,80,8,185.0,,0.0
+2025-10,build,4,Player 186,50,5,165.0,,0.0
+2025-10,build,5,Player 173,40,4,80.0,,0.0
+2025-10,build,6,Player 476,30,3,90.0,,0.0
+2025-10,build,7,Player 427,30,3,80.0,,0.0
+2025-10,build,8,Player 187,30,3,60.0,,0.0
+2025-10,build,9,Player 577,20,2,80.0,,0.0
+2025-10,build,10,Player 498,20,2,55.0,,0.0
+2025-10,perform,1,Player 097,100,8,171.25,One month of Social,90.0
+2025-10,perform,2,Player 004,90,7,384.5,,0.0
+2025-10,perform,3,Player 309,90,7,295.0,,0.0
+2025-10,perform,4,Player 282,80,6,225.0,,0.0
+2025-10,perform,5,Player 048,80,6,100.0,,0.0
+2025-10,perform,6,Player 012,70,5,416.0,,0.0
+2025-10,perform,7,Player 032,70,5,268.75,,0.0
+2025-10,perform,8,Player 103,70,5,117.5,,0.0
+2025-10,perform,9,Player 150,70,5,100.0,,0.0
+2025-10,perform,10,Player 007,50,3,352.5,,0.0
+2025-10,progress,1,Player 075,90,7,307.5,One month of Active,127.5
+2025-10,progress,2,Player 387,90,7,212.5,,0.0
+2025-10,progress,3,Player 031,70,5,205.0,,0.0
+2025-10,progress,4,Player 274,70,5,103.75,,0.0
+2025-10,progress,5,Player 006,60,4,259.5,,0.0
+2025-10,progress,6,Player 522,60,6,255.0,,0.0
+2025-10,progress,7,Player 481,60,4,180.0,,0.0
+2025-10,progress,8,Player 302,50,4,425.0,,0.0
+2025-10,progress,9,Player 525,50,5,168.75,,0.0
+2025-10,progress,10,Player 472,50,3,135.0,,0.0
+2025-11,build,1,Player 624,190,17,1351.25,One month of Elite,187.5
+2025-11,build,2,Player 458,120,10,320.0,,0.0
+2025-11,build,3,Player 367,110,8,520.0,,0.0
+2025-11,build,4,Player 587,100,8,593.0,,0.0
+2025-11,build,5,Player 427,90,7,150.0,,0.0
+2025-11,build,6,Player 589,80,5,219.0,,0.0
+2025-11,build,7,Player 615,60,4,295.0,,0.0
+2025-11,build,8,Player 074,60,4,80.0,,0.0
+2025-11,build,9,Player 130,40,4,554.45,,0.0
+2025-11,build,10,Player 142,30,3,180.0,,0.0
+2025-11,perform,1,Player 150,80,6,237.5,One month of Active,127.5
+2025-11,perform,2,Player 041,70,4,371.0,,0.0
+2025-11,perform,3,Player 004,60,6,442.75,,0.0
+2025-11,perform,4,Player 097,60,4,212.0,,0.0
+2025-11,perform,5,Player 282,60,4,180.0,,0.0
+2025-11,perform,6,Player 012,50,5,1010.25,,0.0
+2025-11,perform,7,Player 397,50,3,555.0,,0.0
+2025-11,perform,8,Player 357,50,5,237.0,,0.0
+2025-11,perform,9,Player 354,50,3,140.0,,0.0
+2025-11,perform,10,Player 048,50,3,80.0,,0.0
+2025-11,progress,1,Player 077,200,12,1205.0,One month of Elite,187.5
+2025-11,progress,2,Player 157,140,12,389.5,,0.0
+2025-11,progress,3,Player 525,130,9,300.0,,0.0
+2025-11,progress,4,Player 524,110,9,270.0,,0.0
+2025-11,progress,5,Player 005,100,5,3884.46,,0.0
+2025-11,progress,6,Player 117,100,8,280.0,,0.0
+2025-11,progress,7,Player 252,90,7,275.0,,0.0
+2025-11,progress,8,Player 268,90,7,200.0,,0.0
+2025-11,progress,9,Player 220,80,8,364.0,,0.0
+2025-11,progress,10,Player 006,80,6,250.0,,0.0
+2025-12,build,1,Player 427,100,8,160.0,One month of Social,90.0
+2025-12,build,2,Player 367,70,6,395.0,,0.0
+2025-12,build,3,Player 187,50,5,100.0,,0.0
+2025-12,build,4,Player 130,40,4,360.0,,0.0
+2025-12,build,5,Player 587,40,4,165.0,,0.0
+2025-12,build,6,Player 173,30,3,417.0,,0.0
+2025-12,build,7,Player 650,30,3,275.0,,0.0
+2025-12,build,8,Player 458,30,2,170.0,,0.0
+2025-12,build,9,Player 688,30,3,160.0,,0.0
+2025-12,build,10,Player 186,30,3,137.5,,0.0
+2025-12,perform,1,Player 694,150,13,555.0,One month of Elite,187.5
+2025-12,perform,2,Player 041,120,6,410.25,,0.0
+2025-12,perform,3,Player 004,60,5,550.25,,0.0
+2025-12,perform,4,Player 097,60,6,375.0,,0.0
+2025-12,perform,5,Player 078,50,4,471.0,,0.0
+2025-12,perform,6,Player 059,40,4,285.0,,0.0
+2025-12,perform,7,Player 484,40,3,175.0,,0.0
+2025-12,perform,8,Player 192,40,4,162.0,,0.0
+2025-12,perform,9,Player 282,40,2,142.0,,0.0
+2025-12,perform,10,Player 354,40,4,135.0,,0.0
+2025-12,progress,1,Player 157,140,10,796.0,One month of Elite,187.5
+2025-12,progress,2,Player 220,130,10,434.0,,0.0
+2025-12,progress,3,Player 137,110,8,312.5,,0.0
+2025-12,progress,4,Player 077,110,8,201.5,,0.0
+2025-12,progress,5,Player 524,100,8,645.0,,0.0
+2025-12,progress,6,Player 252,100,8,120.0,,0.0
+2025-12,progress,7,Player 205,90,6,306.25,,0.0
+2025-12,progress,8,Player 117,90,7,247.0,,0.0
+2025-12,progress,9,Player 387,80,6,227.0,,0.0
+2025-12,progress,10,Player 525,70,7,565.0,,0.0
+2026-01,build,1,Player 739,130,11,646.45,One month of Elite,187.5
+2026-01,build,2,Player 367,100,8,322.5,,0.0
+2026-01,build,3,Player 650,80,6,225.0,,0.0
+2026-01,build,4,Player 427,80,6,120.0,,0.0
+2026-01,build,5,Player 587,60,6,376.25,,0.0
+2026-01,build,6,Player 074,60,4,80.0,,0.0
+2026-01,build,7,Player 689,40,4,235.0,,0.0
+2026-01,build,8,Player 142,40,4,130.0,,0.0
+2026-01,build,9,Player 173,40,4,110.0,,0.0
+2026-01,build,10,Player 428,40,4,102.5,,0.0
+2026-01,perform,1,Player 041,100,7,695.75,One month of Elite,187.5
+2026-01,perform,2,Player 282,90,7,380.0,,0.0
+2026-01,perform,3,Player 087,90,7,124.0,,0.0
+2026-01,perform,4,Player 595,80,5,413.5,,0.0
+2026-01,perform,5,Player 484,80,6,205.0,,0.0
+2026-01,perform,6,Player 150,80,6,172.5,,0.0
+2026-01,perform,7,Player 061,80,6,105.0,,0.0
+2026-01,perform,8,Player 097,70,5,167.5,,0.0
+2026-01,perform,9,Player 004,60,4,540.0,,0.0
+2026-01,perform,10,Player 012,60,4,517.0,,0.0
+2026-01,progress,1,Player 077,150,11,412.5,One month of Elite,187.5
+2026-01,progress,2,Player 137,110,7,371.25,,0.0
+2026-01,progress,3,Player 525,110,9,245.0,,0.0
+2026-01,progress,4,Player 682,80,8,505.0,,0.0
+2026-01,progress,5,Player 717,80,8,495.0,,0.0
+2026-01,progress,6,Player 748,80,7,395.0,,0.0
+2026-01,progress,7,Player 117,70,5,264.0,,0.0
+2026-01,progress,8,Player 268,70,5,187.0,,0.0
+2026-01,progress,9,Player 108,60,4,239.5,,0.0
+2026-01,progress,10,Player 344,60,4,60.0,,0.0
+2026-02,build,1,Player 739,140,11,610.0,One month of Elite,187.5
+2026-02,build,2,Player 689,120,10,506.0,,0.0
+2026-02,build,3,Player 367,110,9,350.0,,0.0
+2026-02,build,4,Player 587,90,9,537.5,,0.0
+2026-02,build,5,Player 804,60,5,370.0,,0.0
+2026-02,build,6,Player 173,60,6,115.0,,0.0
+2026-02,build,7,Player 458,50,5,216.25,,0.0
+2026-02,build,8,Player 427,50,5,215.0,,0.0
+2026-02,build,9,Player 074,50,5,197.5,,0.0
+2026-02,build,10,Player 638,40,4,140.0,,0.0
+2026-02,perform,1,Player 041,130,8,525.75,One month of Elite,187.5
+2026-02,perform,2,Player 076,70,5,362.52,,0.0
+2026-02,perform,3,Player 330,70,5,307.0,,0.0
+2026-02,perform,4,Player 309,60,4,287.51,,0.0
+2026-02,perform,5,Player 354,60,4,123.75,,0.0
+2026-02,perform,6,Player 397,50,4,335.0,,0.0
+2026-02,perform,7,Player 265,50,3,212.5,,0.0
+2026-02,perform,8,Player 810,50,5,95.0,,0.0
+2026-02,perform,9,Player 150,40,4,136.68,,0.0
+2026-02,perform,10,Player 048,40,4,90.0,,0.0
+2026-02,progress,1,Player 077,200,12,278.75,One month of Active,127.5
+2026-02,progress,2,Player 525,110,9,367.5,,0.0
+2026-02,progress,3,Player 075,100,8,398.5,,0.0
+2026-02,progress,4,Player 486,100,8,340.0,,0.0
+2026-02,progress,5,Player 344,90,7,165.0,,0.0
+2026-02,progress,6,Player 717,80,6,286.25,,0.0
+2026-02,progress,7,Player 524,70,5,160.0,,0.0
+2026-02,progress,8,Player 472,60,4,190.0,,0.0
+2026-02,progress,9,Player 481,60,4,190.0,,0.0
+2026-02,progress,10,Player 117,50,3,177.0,,0.0
+2026-03,build,1,Player 587,150,13,718.75,One month of Elite,187.5
+2026-03,build,2,Player 367,100,8,401.25,,0.0
+2026-03,build,3,Player 650,90,7,375.0,,0.0
+2026-03,build,4,Player 427,90,7,175.0,,0.0
+2026-03,build,5,Player 765,70,5,195.0,,0.0
+2026-03,build,6,Player 130,60,5,392.0,,0.0
+2026-03,build,7,Player 739,40,4,410.0,,0.0
+2026-03,build,8,Player 916,40,4,237.5,,0.0
+2026-03,build,9,Player 187,40,4,100.0,,0.0
+2026-03,build,10,Player 783,30,3,483.53,,0.0
+2026-03,perform,1,Player 041,100,6,476.75,One month of Elite,187.5
+2026-03,perform,2,Player 282,100,8,326.25,,0.0
+2026-03,perform,3,Player 265,70,6,305.0,,0.0
+2026-03,perform,4,Player 354,70,5,165.0,,0.0
+2026-03,perform,5,Player 087,60,4,208.25,,0.0
+2026-03,perform,6,Player 078,40,4,320.75,,0.0
+2026-03,perform,7,Player 309,40,4,240.0,,0.0
+2026-03,perform,8,Player 262,30,3,300.75,,0.0
+2026-03,perform,9,Player 330,30,3,259.5,,0.0
+2026-03,perform,10,Player 059,30,3,232.5,,0.0
+2026-03,progress,1,Player 157,240,19,772.75,One month of Elite,187.5
+2026-03,progress,2,Player 077,230,14,341.25,,0.0
+2026-03,progress,3,Player 220,150,13,427.5,,0.0
+2026-03,progress,4,Player 486,100,8,447.5,,0.0
+2026-03,progress,5,Player 117,100,8,225.0,,0.0
+2026-03,progress,6,Player 146,90,7,501.0,,0.0
+2026-03,progress,7,Player 525,80,6,157.5,,0.0
+2026-03,progress,8,Player 020,70,5,285.75,,0.0
+2026-03,progress,9,Player 472,70,5,250.0,,0.0
+2026-03,progress,10,Player 481,70,5,250.0,,0.0
+2026-04,build,1,Player 739,180,16,1144.5,One month of Elite,187.5
+2026-04,build,2,Player 689,170,15,590.0,,0.0
+2026-04,build,3,Player 458,140,10,638.5,,0.0
+2026-04,build,4,Player 427,90,7,210.0,,0.0
+2026-04,build,5,Player 900,70,5,225.0,,0.0
+2026-04,build,6,Player 941,70,5,180.0,,0.0
+2026-04,build,7,Player 112,70,5,150.0,,0.0
+2026-04,build,8,Player 588,70,5,87.5,,0.0
+2026-04,build,9,Player 766,50,4,295.0,,0.0
+2026-04,build,10,Player 587,50,5,177.5,,0.0
+2026-04,perform,1,Player 265,160,10,575.0,One month of Elite,187.5
+2026-04,perform,2,Player 041,140,6,606.75,,0.0
+2026-04,perform,3,Player 078,70,4,562.0,,0.0
+2026-04,perform,4,Player 150,60,4,399.0,,0.0
+2026-04,perform,5,Player 048,60,4,290.0,,0.0
+2026-04,perform,6,Player 282,50,5,387.25,,0.0
+2026-04,perform,7,Player 008,40,4,655.0,,0.0
+2026-04,perform,8,Player 309,40,4,559.0,,0.0
+2026-04,perform,9,Player 330,40,4,483.75,,0.0
+2026-04,perform,10,Player 645,40,4,272.0,,0.0
+2026-04,progress,1,Player 077,210,11,430.0,One month of Elite,187.5
+2026-04,progress,2,Player 157,160,12,310.0,,0.0
+2026-04,progress,3,Player 887,140,10,671.25,,0.0
+2026-04,progress,4,Player 871,90,8,659.0,,0.0
+2026-04,progress,5,Player 220,90,8,594.75,,0.0
+2026-04,progress,6,Player 525,90,7,407.5,,0.0
+2026-04,progress,7,Player 717,70,5,772.5,,0.0
+2026-04,progress,8,Player 117,70,5,372.0,,0.0
+2026-04,progress,9,Player 755,70,5,204.25,,0.0
+2026-04,progress,10,Player 006,60,5,445.0,,0.0

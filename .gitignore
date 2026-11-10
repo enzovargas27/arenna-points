@@ -1,0 +1,14 @@
+# Private data: raw payments and the real-name map
+data/
+
+# Personal drafts (contain customer names in their outputs)
+drafts/
+
+# Environment and secrets
+.venv/
+.env
+
+# Generated files
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
